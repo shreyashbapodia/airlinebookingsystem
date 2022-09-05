@@ -9,6 +9,6 @@ main.py
 Run main.py in terminal to use the project.
 
 You will get various options to explore the project like 
-Create flight
+Create flight,
 Show flight status and
 Book a seat
